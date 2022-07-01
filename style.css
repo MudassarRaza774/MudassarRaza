@@ -1,0 +1,14 @@
+.inputBorder {
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.justifyBro {
+    display: flex;
+    justify-content: center;
+}
+
+.paddings {
+    margin-top: 10px;
+    margin-left: 5px;
+}
